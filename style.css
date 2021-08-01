@@ -1,0 +1,165 @@
+body , html{
+	width: 100%;
+	height: 100%;
+	font-family: 'Zen Tokyo Zoo', cursive;
+	background: url(header.jpg) no-repeat center;
+	background-size:cover ;
+	
+
+}
+
+
+
+
+/*.center{
+  position: absolute;
+  width: 100%;
+  text-align: center;
+
+}*/
+h1{
+	
+	color: white;
+	font-size: 3rem;
+	
+
+}
+
+.hr{
+	background-color:#000000;
+	border-width: 5px;
+	width: 10%;
+	min-height: 3px;
+	margin: 3rem auto ;
+
+}
+
+.buffer{
+
+	width: 100%;
+	height:5rem;
+
+
+}
+
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+}
+
+
+.btn-primary{
+	background-color: #f05F44;
+	border-color: #f05F44; 
+
+}
+
+.btn-primary:hover{
+	background-color: #ee4b08;
+	border-color:#ee4b08;
+	border-width: 4px;
+}
+
+
+
+
+
+
+
+/*.morebtn{
+	width: auto;
+	height:50px;
+	margin: 100px auto;
+	padding: 20px ;
+	border-radius: 100px ;
+	display: block;
+	font-size: auto;
+	color: white;
+	background: #000;
+	border: 0px;
+	line-height: 5px;
+	opacity: 0.8;
+	text-decoration: underline;
+
+
+}
+
+
+*/
+/*************fIND OUT MORE PAGE ***********/
+
+
+/*
+.morepage{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	
+
+
+}
+
+.morecenter{
+  background: #000;
+  opacity: 0.8;
+  bottom: auto;
+  width: 70%;
+  height: 80%;
+  text-align: center;
+  margin: auto;
+  padding: 5px;
+}
+
+.details{
+	width: 100%;
+	height: 50%;
+	padding: auto;
+}
+
+.moreh1{
+	font-size: auto;
+}
+
+.moreform{
+	width: 100%;
+	
+	
+
+}
+
+
+
+p{
+	justify-content: center;
+}
+
+.emailbox{
+	border-radius: 100px;
+	width:50%;
+	height: 20%;
+	display: flex;
+	margin: auto;
+	background: #000;
+	border-color: #fdc24e;
+
+}
+
+.emailbtn{
+
+	border-radius: 100px;
+	margin: auto;
+	display: flex;
+	background: #000;
+	color: white;
+	border: white solid;
+	width: 30%;
+	justify-content: center;
+	padding: 5px;
+
+
+}*/
